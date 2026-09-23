@@ -1,1 +1,5 @@
 This repository contains the design and development of a buck (step-down) DC-DC converter, focused on evaluating different controller ICs and design approaches to achieve the same functional goal.
+
+![Alt text](images/buck_conv_lmr51430.png)
+
+![Alt text](images/pcb_layout.png)
