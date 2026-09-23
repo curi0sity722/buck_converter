@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "buck_conv_lmr51430.step",
       "svg": "",
       "vrml": ""
     },
